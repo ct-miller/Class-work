@@ -4,3 +4,5 @@
 # three instances of the class. One instance should hold your information, and the other
 # two should hold your friends’ or family members’ information.
 
+for i in range(123):
+    print ("This is a test: {}".format(i))
