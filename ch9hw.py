@@ -36,3 +36,4 @@ for n in number:
 
 for ch in result:
     print(ch)
+    #print differently
